@@ -15,3 +15,4 @@ This macropad is my first attempt at making one! I've included six inputs - four
     4x keycaps
     1x case
     4x M3x7 screws
+    1x 10k ohm resistor
