@@ -1,6 +1,8 @@
 # trains_macropad
  first macropad!
 This macropad is my first attempt at making one! I've included six inputs - four hotswap cherry MX sockets, two rotary encoders, with per-key RGB lighting _and_ an OLED screen to boot!
+### Firmware
+This is still a WIP.
 
 # BOM:
 
